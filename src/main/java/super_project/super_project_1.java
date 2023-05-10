@@ -24,9 +24,9 @@ class dog extends animal{
     String color = "dark";
     
     void printColor(){
-        System.out.println(color);
+        System.out.println("This dog is " + color + " color");
         
         // super use to call parent class
-        System.out.println(super.color);
+        System.out.println("This dog is " + super.color + " color");
     }
 }

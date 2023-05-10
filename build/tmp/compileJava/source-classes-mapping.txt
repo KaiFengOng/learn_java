@@ -6,10 +6,10 @@ abstract_learn/abstract_learn_1.java
 polymorphism/overloading_2.java
  polymorphism.overloading_2
  polymorphism.userDetails
-super_project/super_project_1.java
- super_project.animal
- super_project.dog
- super_project.super_project_1
+abstract_learn/abstract_project_1.java
+ abstract_learn.abstract_project_1
+ abstract_learn.dragonfruit
+ abstract_learn.fruit
 objectoriented/object_and_class_2.java
  objectoriented.object_and_class_2
  objectoriented.object_and_class_2$student
@@ -86,7 +86,7 @@ simple/average.java
  simple.average
 database/database_1.java
  database.database_1
-abstract_learn/abstract_project_1.java
- abstract_learn.abstract_project_1
- abstract_learn.dragonfruit
- abstract_learn.fruit
+super_project/super_project_1.java
+ super_project.animal
+ super_project.dog
+ super_project.super_project_1
