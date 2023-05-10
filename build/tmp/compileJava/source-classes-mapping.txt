@@ -3,22 +3,11 @@ abstract_learn/abstract_learn_1.java
  abstract_learn.PNB
  abstract_learn.SBI
  abstract_learn.abstract_learn_1
-polymorphism/overloading_2.java
- polymorphism.overloading_2
- polymorphism.userDetails
-abstract_learn/abstract_project_1.java
- abstract_learn.abstract_project_1
- abstract_learn.dragonfruit
- abstract_learn.fruit
 objectoriented/object_and_class_2.java
  objectoriented.object_and_class_2
  objectoriented.object_and_class_2$student
-syllabus/dowhileloop.java
- syllabus.dowhileloop
-interface_learn/interface_item_stock.java
- interface_learn.fruit
- interface_learn.interface_item_stock
- interface_learn.pricefruit
+simple/average.java
+ simple.average
 polymorphism/overriding_2.java
  polymorphism.item
  polymorphism.mask
@@ -30,63 +19,74 @@ aggregation/aggregation_1.java
  aggregation.Bank
  aggregation.Employee
  aggregation.aggregation_1
-inheritance/inheritance_1.java
- inheritance.Employee
- inheritance.Programmer
- inheritance.inheritance_1
+abstract_learn/abstract_project_1.java
+ abstract_learn.abstract_project_1
+ abstract_learn.dragonfruit
+ abstract_learn.fruit
+interface_learn/interface_calculation.java
+ interface_learn.calculate
+ interface_learn.calculation
+ interface_learn.interface_calculation
 syllabus/forloop.java
  syllabus.forloop
-syllabus/learnURL.java
- syllabus.learnURL
 inheritance/inheritance_2.java
  inheritance.animal
  inheritance.cat
  inheritance.dog
  inheritance.inheritance_2
  inheritance.snake
-interface_learn/interface_learn_1.java
- interface_learn.A6
- interface_learn.interface_learn_1
- interface_learn.printable
-syllabus/whileloop.java
- syllabus.whileloop
-objectoriented/object_and_class_1.java
- objectoriented.object_and_class_1
- objectoriented.student
-objectoriented/this_keyword.java
- objectoriented.Student
- objectoriented.this_keyword
-polymorphism/overloading_1.java
- polymorphism.Loan
- polymorphism.overloading_1
-simple/main_1.java
- simple.main_1
-simple/additional.java
- simple.additional
-aggregation/aggregation_2.java
- aggregation.Course
- aggregation.Student
- aggregation.aggregation_2
-syllabus/switchcase.java
- syllabus.switchcase
-polymorphism/overriding_1.java
- polymorphism.Child
- polymorphism.Parent
- polymorphism.overriding_1
-interface_learn/interface_calculation.java
- interface_learn.calculate
- interface_learn.calculation
- interface_learn.interface_calculation
 polymorphism/animal_overriding.java
  polymorphism.animal
  polymorphism.animal_overriding
  polymorphism.cat
  polymorphism.dog
-simple/average.java
- simple.average
+objectoriented/this_keyword.java
+ objectoriented.Student
+ objectoriented.this_keyword
+simple/main_1.java
+ simple.main_1
 database/database_1.java
  database.database_1
+syllabus/switchcase.java
+ syllabus.switchcase
+aggregation/aggregation_2.java
+ aggregation.Course
+ aggregation.Student
+ aggregation.aggregation_2
+polymorphism/overloading_2.java
+ polymorphism.overloading_2
+ polymorphism.userDetails
 super_project/super_project_1.java
  super_project.animal
  super_project.dog
  super_project.super_project_1
+syllabus/dowhileloop.java
+ syllabus.dowhileloop
+inheritance/inheritance_1.java
+ inheritance.Employee
+ inheritance.Programmer
+ inheritance.inheritance_1
+syllabus/learnURL.java
+ syllabus.learnURL
+syllabus/whileloop.java
+ syllabus.whileloop
+objectoriented/object_and_class_1.java
+ objectoriented.object_and_class_1
+ objectoriented.student
+polymorphism/overloading_1.java
+ polymorphism.Loan
+ polymorphism.overloading_1
+interface_learn/interface_item_stock.java
+ interface_learn.fruit
+ interface_learn.interface_item_stock
+ interface_learn.pricefruit
+simple/additional.java
+ simple.additional
+interface_learn/interface_learn_1.java
+ interface_learn.A6
+ interface_learn.interface_learn_1
+ interface_learn.printable
+polymorphism/overriding_1.java
+ polymorphism.Child
+ polymorphism.Parent
+ polymorphism.overriding_1
