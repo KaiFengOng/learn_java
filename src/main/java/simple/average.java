@@ -13,9 +13,8 @@ import java.util.Scanner;
  */
 public class average {
     
-    int totalSum = 0;
     static int sumtotal = 0;
-    static double average;
+    static float average = (float) 0.0;
         
     
     public static void main(String[]args){
@@ -33,6 +32,6 @@ public class average {
         
         average = sumtotal / totalnum;
         System.out.println("Total num you entered is " + totalnum);
-        System.out.println("The average is " + (double)average);  //casting double to string
+        System.out.println("The average is " + (float)average);  //casting double to string
     }
 }

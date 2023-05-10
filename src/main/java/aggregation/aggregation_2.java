@@ -35,7 +35,7 @@ public class aggregation_2 {
 
 //In private class - all need use setter & getter
 class Course{
-    private String coursename;
+    private final String coursename;
     private Set<Student> students; //object of student
     
     //Setter
@@ -57,8 +57,8 @@ class Course{
 }
 
 class Student{
-    private String name;
-    private String ID;
+    private final String name;
+    private final String ID;
     
     //Setter 
     Student(String name, String ID){

@@ -13,7 +13,6 @@ import java.util.Scanner;
 
 public class additional {
     
-    int totalSum = 0;
     static int sumtotal = 0;
     
     public static void main(String[] args){

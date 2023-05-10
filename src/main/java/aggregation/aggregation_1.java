@@ -30,7 +30,7 @@ public class aggregation_1 {
 }
 
 class Bank{
-    private String name;
+    private final String name;
     private Set<Employee> employees;
     
     Bank(String name){
@@ -51,7 +51,7 @@ class Bank{
 }
 
 class Employee{
-    private String name;
+    private final String name;
     Employee(String name){
         this.name = name;
     }
